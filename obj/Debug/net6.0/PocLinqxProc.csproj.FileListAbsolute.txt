@@ -1,0 +1,6 @@
+C:\Git\projetos\PocLinqxProc\obj\Debug\net6.0\PocLinqxProc.csproj.AssemblyReference.cache
+C:\Git\projetos\PocLinqxProc\obj\Debug\net6.0\PocLinqxProc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\projetos\PocLinqxProc\obj\Debug\net6.0\PocLinqxProc.AssemblyInfoInputs.cache
+C:\Git\projetos\PocLinqxProc\obj\Debug\net6.0\PocLinqxProc.AssemblyInfo.cs
+C:\Git\projetos\PocLinqxProc\obj\Debug\net6.0\PocLinqxProc.csproj.CoreCompileInputs.cache
+C:\Git\projetos\PocLinqxProc\obj\Debug\net6.0\PocLinqxProc.sourcelink.json

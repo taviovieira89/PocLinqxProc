@@ -1,3 +1,4 @@
+using System;
 public class Pedido
 {
     public int Id { get; set; }
